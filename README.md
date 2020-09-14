@@ -20,7 +20,7 @@
 ### Hi there, I'm Aditya Shakya 👋
 
 I'm a Student, Learner & Linux Enthusiast!
-- 🔭 I’m currently working on [Archcraft][archcrafts]
+- 🔭 I’m currently very busy at work.
 - 🌱 I’m currently learning `bash` and `python`
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
