@@ -4,7 +4,7 @@
 [twitter]: https://www.twitter.com/adi1090x
 [reddit]: https://www.reddit.com/user/adi1090x
 [github]: https://www.github.com/adi1090x
-[instagram]: https://www.instagram.com/aditya__shakya
+[instagram]: https://www.instagram.com/adi1090x
 [gmail]: mailto:adi1090x@gmail.com
 [bmac]: https://www.buymeacoffee.com/adi1090x
 [ko-fi]: https://ko-fi.com/adi1090x
