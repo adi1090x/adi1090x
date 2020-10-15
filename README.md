@@ -19,7 +19,7 @@
 
 ### Hi there, I'm Aditya Shakya 👋
 
-I'm a Student, Learner & Linux Enthusiast!
+I'm a Software Developer, System Designer & Linux Enthusiast!
 - 🔭 I’m currently very busy at work.
 - 🌱 I’m currently learning `bash` and `python`
 - 👯 I’m looking to collaborate with other content creators
