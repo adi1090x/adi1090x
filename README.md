@@ -20,7 +20,7 @@
 ### Hi there, I'm Aditya Shakya 👋
 
 I'm a Software Developer, System Designer & Linux Enthusiast!
-- 🔭 I’m currently doing... Absolutely Nothing!
+- 🔭 I’m currently... Fixing old mess.
 - 🌱 I’m currently learning `bash` and `python`
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
