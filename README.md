@@ -4,7 +4,6 @@
 [twitter]: https://www.twitter.com/adi1090x
 [reddit]: https://www.reddit.com/user/adi1090x
 [github]: https://www.github.com/adi1090x
-[instagram]: https://www.instagram.com/adi1090x
 [linkedin]: https://www.linkedin.com/in/adi1090x/
 [gmail]: mailto:adi1090x@gmail.com
 [bmac]: https://www.buymeacoffee.com/adi1090x
@@ -32,7 +31,6 @@ I'm a Software Developer, System Designer & Linux Enthusiast!
 [<img align="left" alt="adi1090x | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
 [<img align="left" alt="adi1090x | Reddit" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111589.svg" />][reddit]
 [<img align="left" alt="adi1090x | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
-[<img align="left" alt="adi1090x | Instagram" width="22px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
 [<img align="left" alt="adi1090x | Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
 [<img align="left" alt="adi1090x | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
 
