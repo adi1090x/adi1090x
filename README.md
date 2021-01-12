@@ -20,10 +20,10 @@
 ### Hi there, I'm Aditya Shakya 👋
 
 I'm a Software Developer, System Designer & Linux Enthusiast!
-- 🔭 I’m currently... Fixing old mess.
-- 🌱 I’m currently learning `bash` and `python`
+- 🔭 I’m currently doing life related stuff
+- 🌱 I’m currently learning `python`
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Improve Archcraft and contribute more to other open source projects
 - ⚡ Fun fact: I love 📸 | 🎨 | 🐶 | 👨‍💻
 
 ### Connect with me:
