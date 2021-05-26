@@ -19,7 +19,7 @@
 ### Hi there, I'm Aditya Shakya 👋
 
 I'm a Software Developer, System Designer & Linux Enthusiast!
-- 🔭 I’m currently doing life related stuff
+- 🔭 I’m currently working on Archcraft
 - 🌱 I’m currently learning `python`
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Improve Archcraft and contribute more to other open source projects
@@ -53,6 +53,26 @@ I'm a Software Developer, System Designer & Linux Enthusiast!
 ---
 ### 📖 Latest in Archcraft:
 
+#### Changelog (Release 05.2021)
+```
+Added Calamares Installer for Easy installation.
+Updated ABIF Installer for Expert Users.
+Updated the whole base for better stability.
+Use btrfs filesystem by default.
+Better timeshift snapshots with btrfs.
+Replaced termite with alacritty terminal.
+Added bluetooth and printer support.
+Added graphics drivers for vmware and more nvidia cards.
+Added tools to style QT applications.
+Updated previous and added new themes in openbox.
+Improved themes in bspwm session.
+Use different lockscreens for each session.
+Added new plymouth theme.
+Added new gtk themes, icon packs and cursor themes.
+Updated the source code to the latest archiso.
+```
+
+- [Install Archcraft With Calamares (With Encryption)](https://archcraft-os.github.io/blog/calamares.html)
 - [Things To Do After Installing Archcraft OS](https://archcraft-os.github.io/blog/post_install.html)
 - [Build Archcraft ISO With Its Source](https://archcraft-os.github.io/blog/build.html)
 - [Install Archcraft On BIOS System (With Encryption)](https://archcraft-os.github.io/blog/bios.html)
