@@ -1,5 +1,5 @@
 <!-- List Of Websites-->
-[archcraft]: https://archcraft-os.github.io
+[archcraft]: https://archcraft.io
 [archcrafts]: https://github.com/archcraft-os
 [twitter]: https://www.twitter.com/adi1090x
 [reddit]: https://www.reddit.com/user/adi1090x
@@ -72,12 +72,12 @@ I'm a Software Developer, System Designer & Linux Enthusiast!
 - Updated the source code to the latest archiso.
 ```
 
-- [Install Archcraft With Calamares (With Encryption)](https://archcraft-os.github.io/blog/calamares.html)
-- [Things To Do After Installing Archcraft OS](https://archcraft-os.github.io/blog/post_install.html)
-- [Build Archcraft ISO With Its Source](https://archcraft-os.github.io/blog/build.html)
-- [Install Archcraft On BIOS System (With Encryption)](https://archcraft-os.github.io/blog/bios.html)
-- [Install Archcraft On UEFI System (With Encryption)](https://archcraft-os.github.io/blog/uefi.html)
-- [Create A Bootable USB With Archcraft](https://archcraft-os.github.io/blog/usb.html)
+- [Install Archcraft With Calamares (With Encryption)](https://archcraft.io/blog/calamares)
+- [Things To Do After Installing Archcraft OS](https://archcraft.io/blog/post_install)
+- [Build Archcraft ISO With Its Source](https://archcraft.io/blog/build)
+- [Install Archcraft On BIOS System (With Encryption)](https://archcraft.io/blog/bios)
+- [Install Archcraft On UEFI System (With Encryption)](https://archcraft.io/blog/uefi)
+- [Create A Bootable USB With Archcraft](https://archcraft.io/blog/usb)
 
 ---
 
