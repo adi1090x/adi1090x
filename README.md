@@ -50,26 +50,21 @@ I'm a Software Developer, System Designer & Linux Enthusiast!
 <br />
 <br />
 
----
+#
+
 ### 📖 Latest in Archcraft:
 
-#### Changelog (Release 05.2021)
+#### Changelog (Release 06.2021)
 ```
-- Added Calamares Installer for Easy installation.
-- Updated ABIF Installer for Expert Users.
-- Updated the whole base for better stability.
-- Use btrfs filesystem by default.
-- Better timeshift snapshots with btrfs.
-- Replaced termite with alacritty terminal.
-- Added bluetooth and printer support.
-- Added graphics drivers for vmware and more nvidia cards.
-- Added tools to style QT applications.
-- Updated previous and added new themes in openbox.
-- Improved themes in bspwm session.
-- Use different lockscreens for each session.
-- Added new plymouth theme.
-- Added new gtk themes, icon packs and cursor themes.
-- Updated the source code to the latest archiso.
+- Enabled auto login for live session/user
+- Enabled password free sudo permissions in live session 
+- Added an extra (xfce) terminal, in case alacritty doesn't work for you
+- Updated Installers to work in new `Copy to RAM` boot mode
+- Updated pacman configuration and fixed pacman related issues
+- Added a polkit agent (fix timeshift, snap pkgs related issues)
+- Added extra functionalities in thunar (set wallpaper, lockscreen, etc)
+- Fixed few bugs and typos
+- Updated New Archcraft links
 ```
 
 - [Install Archcraft With Calamares (With Encryption)](https://archcraft.io/blog/calamares)
@@ -79,9 +74,9 @@ I'm a Software Developer, System Designer & Linux Enthusiast!
 - [Install Archcraft On UEFI System (With Encryption)](https://archcraft.io/blog/uefi)
 - [Create A Bootable USB With Archcraft](https://archcraft.io/blog/usb)
 
----
+#
 
-### Like my work, Support me:
+### Like my work?
 
 [<img align="left" alt="adi1090x | Twitter" width="32px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/1.png" />][bmac]
 [<img align="left" alt="adi1090x | Reddit" width="32px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/2.png" />][ko-fi]
