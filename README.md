@@ -8,7 +8,6 @@
 [bmac]: https://www.buymeacoffee.com/adi1090x
 [ko-fi]: https://ko-fi.com/adi1090x
 [paypal]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U3VK2SSVQWAPN
-[patreon]: https://www.patreon.com/adi1090x
 
 <p align="center">
   <img alt="adi1090x's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adi1090x&show_icons=true&include_all_commits=true&hide_border=true" />
@@ -78,7 +77,6 @@ I'm a Software Developer, System Designer & Linux Enthusiast!
 
 ### Like my work?
 
-[<img align="left" alt="adi1090x | Twitter" width="32px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/1.png" />][bmac]
-[<img align="left" alt="adi1090x | Reddit" width="32px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/2.png" />][ko-fi]
-[<img align="left" alt="adi1090x | Github" width="32px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/3.png" />][paypal]
-[<img align="left" alt="adi1090x | Instagram" width="32px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/4.png" />][patreon]
+[<img align="left" alt="adi1090x" width="32px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/1.png" />][bmac]
+[<img align="left" alt="adi1090x" width="32px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/2.png" />][ko-fi]
+[<img align="left" alt="adi1090x" width="32px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/3.png" />][paypal]
