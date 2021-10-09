@@ -51,30 +51,6 @@ I'm a Software Developer, System Designer & Linux Enthusiast!
 
 #
 
-### 📖 Latest in Archcraft:
-
-#### Changelog (Release 06.2021)
-```
-- Enabled auto login for live session/user
-- Enabled password free sudo permissions in live session 
-- Added an extra (xfce) terminal, in case alacritty doesn't work for you
-- Updated Installers to work in new `Copy to RAM` boot mode
-- Updated pacman configuration and fixed pacman related issues
-- Added a polkit agent (fix timeshift, snap pkgs related issues)
-- Added extra functionalities in thunar (set wallpaper, lockscreen, etc)
-- Fixed few bugs and typos
-- Updated New Archcraft links
-```
-
-- [Install Archcraft With Calamares (With Encryption)](https://archcraft.io/blog/calamares)
-- [Things To Do After Installing Archcraft OS](https://archcraft.io/blog/post_install)
-- [Build Archcraft ISO With Its Source](https://archcraft.io/blog/build)
-- [Install Archcraft On BIOS System (With Encryption)](https://archcraft.io/blog/bios)
-- [Install Archcraft On UEFI System (With Encryption)](https://archcraft.io/blog/uefi)
-- [Create A Bootable USB With Archcraft](https://archcraft.io/blog/usb)
-
-#
-
 ### Like my work?
 
 [<img align="left" alt="adi1090x" width="32px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/1.png" />][bmac]
