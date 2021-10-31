@@ -27,7 +27,7 @@ I'm a Software Developer, System Designer & Linux Enthusiast!
 ### Connect with me:
 
 [<img align="left" alt="adi1090x | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
-[<img align="left" alt="adi1090x | Reddit" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111589.svg" />][reddit]
+[<img align="left" alt="adi1090x | Reddit" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670226.png?token=exp=1635648914~hmac=6a0331263517463fb69167b90da92976" />][reddit]
 [<img align="left" alt="adi1090x | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
 [<img align="left" alt="adi1090x | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
 
