@@ -17,8 +17,10 @@
 
 #
 
+<!--
 ### Like my work?
 
 [<img align="left" alt="adi1090x" width="32px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/1.png" />][bmac]
 [<img align="left" alt="adi1090x" width="32px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/2.png" />][ko-fi]
 [<img align="left" alt="adi1090x" width="32px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/3.png" />][paypal]
+-->
