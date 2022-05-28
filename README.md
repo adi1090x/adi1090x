@@ -15,8 +15,6 @@
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=adi1090x&hide=ruby,perl&hide_border=true" />  -->
 </p>
 
-#
-
 <!--
 ### Like my work?
 
