@@ -42,7 +42,7 @@ Now I want you to imagine the work I have to put here for your **`Requested WM`*
 
 Yeah... Imagine the work here. And to be honest even though i'm putting a `price` here, ***`It doesn't even justify the work and effort`***.
 
-Assume working for **15$ an hour** (lowest) for **8 hours** (regular 9to5 job). And if it takes **`7 days`** to configure a WM (_trust me it takes that much time when you do everything from scratch_), You should be getting **`15x8x7 = 840 USD`**. I put a **5$ tag** on each WM with a **`total 100 purchases`**. Even though if **100** people purchase it, I still get 500$ (414$ actually after charges). Dude I'm not getting half of the actual work I've done.
+Assume working for **15USD an hour** (lowest) for **8 hours** (regular 9to5 job). And if it takes **`7 days`** to configure a WM (_trust me it takes that much time when you do everything from scratch_), You should be getting **`15x8x7 = 840 USD`**. I put a **5USD tag** on each WM with a **`total 100 purchases`**. Even though if **100** people purchase it, I still get **500 USD** (**414 USD** actually after charges). Dude I'm not getting half of the actual work I've done.
 
 Still people teaches me `ETHICS`, Yeah... **`FUCK ETHICS`**.
 
