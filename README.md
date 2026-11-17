@@ -81,11 +81,9 @@ The goal is simple: build desktop experiences that look good, work well, and mak
 | :--- | :--- |
 | [**Archcraft Prime**](https://wiki.archcraft.io/docs/premium/prime) | An exclusive Archcraft edition featuring a curated collection of desktop configuration, customizations, and tools for a refined Linux experience. |
 | [**Archcraft WSE**](https://wiki.archcraft.io/docs/premium/wse) | Archcraft's Wayland Special Edition, featuring a collection of preconfigured Wayland compositors and carefully crafted desktop experiences. |
+| [**Labwc Desktop**](LINK) | A productivity-focused Wayland desktop configuration featuring intuitive workflows, custom utilities, multi-monitor support, and native Wayland integrations. |
 | [**Hyprland Desktop**](https://wiki.archcraft.io/docs/wayland-compositors/hyprland) | A fully integrated Hyprland desktop configuration with custom workflows, utilities, and visual enhancements for Archcraft and other Linux distributions. |
-| [**Sway Desktop**](https://wiki.archcraft.io/docs/wayland-compositors/sway) | A complete Sway desktop experience combining keyboard-driven workflows, practical utilities, and a cohesive interface for Archcraft and other Linux distributions. |
-
-<!--| [**Labwc Desktop**](LINK) | A productivity-focused Wayland desktop configuration featuring intuitive workflows, custom utilities, multi-monitor support, and native Wayland integrations. |
-| [**More**](https://ko-fi.com/adi1090x/shop) | More on ko-fi |-->
+| [**More**](https://ko-fi.com/adi1090x/shop) | More on ko-fi |
 
 ### Technologies & Tools
 
